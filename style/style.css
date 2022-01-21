@@ -141,6 +141,8 @@ body {
 
 .btn-img {
     margin-right: 0;
+    max-width: 100%;
+}
 }
 
 .btn:hover {
